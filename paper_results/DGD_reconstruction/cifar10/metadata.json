@@ -1,0 +1,16 @@
+{
+    "dataset": "cifar10",
+    "n_nodes": 9,
+    "n_edges": 10,
+    "attacker": 0,
+    "neighbors": [
+        7
+    ],
+    "time_step": 18,
+    "n_runs": 50,
+    "time_budget_seconds": 600.0,
+    "reward_label": "Gram_error_fro",
+    "last_sequences_exported_per_run": 5,
+    "isomorphism_rate": 1.0,
+    "total_runtime_seconds": 1832.7001495361328
+}

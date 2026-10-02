@@ -1,0 +1,25 @@
+{
+  "experiment": "cifar10_resnet18",
+  "device": "cuda",
+  "nodes": 9,
+  "edge_probability": 0.3333333333333333,
+  "graph_seed": 4332,
+  "parameter_dimension": 11173962,
+  "T_obs": 18,
+  "attack_round": 843,
+  "trigger_reason": "projection_threshold",
+  "attack_deadline": 3520,
+  "projection_threshold": 0.0001,
+  "trigger_window": 1,
+  "attacker": 0,
+  "neighbors": [
+    7
+  ],
+  "Z_A_shape": [
+    19,
+    2,
+    1
+  ],
+  "raw_observations_saved": false,
+  "attack_message": "h_u"
+}

@@ -1,0 +1,21 @@
+{
+    "nodes": 10,
+    "target_edges": 14,
+    "attacker_nodes": [
+        0
+    ],
+    "unknown_mode": {
+        "initial_prior": "neutral",
+        "prior_update": "Recomputed when the incumbent best sequence implies a new edge-count estimate; cached by estimated edge count.",
+        "patience": 5
+    },
+    "known_mode": {
+        "prior_edge_count": 14,
+        "rollout_stopping_rule": "exact target edge count"
+    },
+    "time_budget_seconds": 21600.0,
+    "runs_per_mode": 50,
+    "workers": 60,
+    "reward_label": "Gram_error_fro",
+    "total_runtime_seconds": 43203.125619888306
+}

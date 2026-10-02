@@ -1,0 +1,4502 @@
+{
+  "slice 335": {
+    "n_nodes": 9,
+    "n_edges": 13,
+    "density": 0.3611111111111111,
+    "degree_mean": 2.888888888888889,
+    "degree_std": 1.6629588385661962,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 105": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 1.6583123951777,
+    "degree_min": 1.0,
+    "degree_max": 7.0
+  },
+  "slice 250": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 1.3416407864998738,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 455": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 0.9162456945817024,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 441": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 0.6998542122237652,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 208": {
+    "n_nodes": 12,
+    "n_edges": 11,
+    "density": 0.16666666666666666,
+    "degree_mean": 1.8333333333333333,
+    "degree_std": 0.7993052538854533,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 54": {
+    "n_nodes": 11,
+    "n_edges": 14,
+    "density": 0.2545454545454545,
+    "degree_mean": 2.5454545454545454,
+    "degree_std": 0.7820295697311479,
+    "degree_min": 2.0,
+    "degree_max": 4.0
+  },
+  "slice 381": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 0.5,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 352": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.5384615384615383,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 165": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 1.3844373104863459,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 149": {
+    "n_nodes": 10,
+    "n_edges": 13,
+    "density": 0.28888888888888886,
+    "degree_mean": 2.6,
+    "degree_std": 1.42828568570857,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 279": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 0.8634593969478326,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 354": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 0.9970370305242862,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 106": {
+    "n_nodes": 11,
+    "n_edges": 15,
+    "density": 0.2727272727272727,
+    "degree_mean": 2.727272727272727,
+    "degree_std": 0.8624393618641034,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 198": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 1.077032961426901,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 128": {
+    "n_nodes": 10,
+    "n_edges": 14,
+    "density": 0.3111111111111111,
+    "degree_mean": 2.8,
+    "degree_std": 1.2489995996796797,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 90": {
+    "n_nodes": 12,
+    "n_edges": 14,
+    "density": 0.21212121212121213,
+    "degree_mean": 2.3333333333333335,
+    "degree_std": 1.3743685418725535,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 17": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.9860132971832694,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 61": {
+    "n_nodes": 11,
+    "n_edges": 14,
+    "density": 0.2545454545454545,
+    "degree_mean": 2.5454545454545454,
+    "degree_std": 1.4993111365882401,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 3": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 0.8634593969478325,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 464": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.3888823142513682,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 357": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 0.9574271077563381,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 187": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 1.0986812966989,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 453": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 0.9162456945817024,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 49": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 0.9910845174403943,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 239": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.8975274678557508,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 273": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 0.6285393610547089,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 304": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 1.2801909579781012,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 333": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.5456030825826172,
+    "degree_min": 1.0,
+    "degree_max": 7.0
+  },
+  "slice 436": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 0.7457969011409737,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 322": {
+    "n_nodes": 8,
+    "n_edges": 7,
+    "density": 0.25,
+    "degree_mean": 1.75,
+    "degree_std": 0.6614378277661477,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 403": {
+    "n_nodes": 11,
+    "n_edges": 17,
+    "density": 0.3090909090909091,
+    "degree_mean": 3.090909090909091,
+    "degree_std": 0.899954085146515,
+    "degree_min": 2.0,
+    "degree_max": 5.0
+  },
+  "slice 33": {
+    "n_nodes": 12,
+    "n_edges": 14,
+    "density": 0.21212121212121213,
+    "degree_mean": 2.3333333333333335,
+    "degree_std": 1.1055415967851332,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 336": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 0.7745966692414834,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 46": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 1.02851895445316,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 443": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.1512791959304434,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 44": {
+    "n_nodes": 10,
+    "n_edges": 9,
+    "density": 0.2,
+    "degree_mean": 1.8,
+    "degree_std": 0.7483314773547882,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 407": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 1.2801909579781012,
+    "degree_min": 2.0,
+    "degree_max": 6.0
+  },
+  "slice 456": {
+    "n_nodes": 10,
+    "n_edges": 12,
+    "density": 0.26666666666666666,
+    "degree_mean": 2.4,
+    "degree_std": 1.019803902718557,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 78": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.5456030825826172,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 9": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.816496580927726,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 212": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 0.9534625892455924,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 41": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.247219128924647,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 433": {
+    "n_nodes": 8,
+    "n_edges": 10,
+    "density": 0.35714285714285715,
+    "degree_mean": 2.5,
+    "degree_std": 1.118033988749895,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 213": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.816496580927726,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 355": {
+    "n_nodes": 8,
+    "n_edges": 10,
+    "density": 0.35714285714285715,
+    "degree_mean": 2.5,
+    "degree_std": 1.4142135623730951,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 377": {
+    "n_nodes": 11,
+    "n_edges": 10,
+    "density": 0.18181818181818182,
+    "degree_mean": 1.8181818181818181,
+    "degree_std": 0.9359663764533637,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 449": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 1.2662171161076472,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 412": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 0.7844645405527362,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 434": {
+    "n_nodes": 13,
+    "n_edges": 20,
+    "density": 0.2564102564102564,
+    "degree_mean": 3.076923076923077,
+    "degree_std": 1.3846153846153848,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 119": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.08240363688233,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 268": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 0.9294650748918902,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 363": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.5423028965971861,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 70": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 0.7745966692414834,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 192": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 0.9483713850721502,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 251": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 1.0954451150103321,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 30": {
+    "n_nodes": 13,
+    "n_edges": 21,
+    "density": 0.2692307692307692,
+    "degree_mean": 3.230769230769231,
+    "degree_std": 1.422557077608225,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 182": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 0.7856742013183862,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 323": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 0.8813963377120598,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 313": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.08240363688233,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 66": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 1.32664991614216,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 385": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 0.6056929133855239,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 495": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.2733034890189885,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 138": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 0.9574271077563381,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 476": {
+    "n_nodes": 11,
+    "n_edges": 14,
+    "density": 0.2545454545454545,
+    "degree_mean": 2.5454545454545454,
+    "degree_std": 1.4373989364401722,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 133": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.4955555457864294,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 65": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 0.8331955809010617,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 169": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 0.5345224838248488,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 285": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.146128032750103,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 113": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 0.6998542122237652,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 130": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 1.227262335243029,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 414": {
+    "n_nodes": 10,
+    "n_edges": 13,
+    "density": 0.28888888888888886,
+    "degree_mean": 2.6,
+    "degree_std": 0.9165151389911681,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 390": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.8975274678557508,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 144": {
+    "n_nodes": 11,
+    "n_edges": 14,
+    "density": 0.2545454545454545,
+    "degree_mean": 2.5454545454545454,
+    "degree_std": 0.7820295697311479,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 217": {
+    "n_nodes": 13,
+    "n_edges": 21,
+    "density": 0.2692307692307692,
+    "degree_mean": 3.230769230769231,
+    "degree_std": 1.5268794800984007,
+    "degree_min": 1.0,
+    "degree_max": 7.0
+  },
+  "slice 337": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 0.6998542122237652,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 289": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 0.6324555320336759,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 411": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 0.8660254037844386,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 330": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.2733034890189885,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 18": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.1055415967851334,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 16": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.0714144828603167,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 115": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 0.5,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 489": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 0.9797958971132713,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 161": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.3278981924332363,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 259": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.4349813927828945,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 211": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 0.7071067811865476,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 121": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 1.4043582955293932,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 86": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.2113858267710478,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 256": {
+    "n_nodes": 10,
+    "n_edges": 12,
+    "density": 0.26666666666666666,
+    "degree_mean": 2.4,
+    "degree_std": 1.019803902718557,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 341": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 0.8634593969478326,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 465": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 0.6030226891555273,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 398": {
+    "n_nodes": 10,
+    "n_edges": 13,
+    "density": 0.28888888888888886,
+    "degree_mean": 2.6,
+    "degree_std": 0.8,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 486": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 0.45175395145262565,
+    "degree_min": 1.0,
+    "degree_max": 2.0
+  },
+  "slice 206": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.336780553614059,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 253": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 0.9860132971832694,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 429": {
+    "n_nodes": 10,
+    "n_edges": 9,
+    "density": 0.2,
+    "degree_mean": 1.8,
+    "degree_std": 0.4,
+    "degree_min": 1.0,
+    "degree_max": 2.0
+  },
+  "slice 362": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 0.9359663764533637,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 204": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.816496580927726,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 306": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 0.6998542122237652,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 231": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 0.8660254037844386,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 166": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 0.7745966692414834,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 238": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 0.7993052538854533,
+    "degree_min": 2.0,
+    "degree_max": 4.0
+  },
+  "slice 207": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.0490908997681427,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 202": {
+    "n_nodes": 13,
+    "n_edges": 20,
+    "density": 0.2564102564102564,
+    "degree_mean": 3.076923076923077,
+    "degree_std": 1.2064913185660093,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 424": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.3743685418725535,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 274": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.0658774200423862,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 493": {
+    "n_nodes": 13,
+    "n_edges": 20,
+    "density": 0.2564102564102564,
+    "degree_mean": 3.076923076923077,
+    "degree_std": 0.9970370305242863,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 480": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 0.9791208740244552,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 21": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 0.9101661204768642,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 471": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.2015768732164085,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 96": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 0.5,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 157": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 1.6244657241348273,
+    "degree_min": 1.0,
+    "degree_max": 7.0
+  },
+  "slice 413": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.1055415967851332,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 224": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.3846153846153846,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 269": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.0769230769230769,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 488": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 1.4142135623730951,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 467": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.393136175098064,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 283": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.3803352649943355,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 373": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 0.8498365855987975,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 463": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 0.8944271909999159,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 62": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 0.7559289460184544,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 42": {
+    "n_nodes": 8,
+    "n_edges": 7,
+    "density": 0.25,
+    "degree_mean": 1.75,
+    "degree_std": 1.299038105676658,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 349": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.2779421327566267,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 351": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 1.16619037896906,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 97": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 1.0801234497346435,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 292": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.2733034890189883,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 177": {
+    "n_nodes": 11,
+    "n_edges": 10,
+    "density": 0.18181818181818182,
+    "degree_mean": 1.8181818181818181,
+    "degree_std": 0.5749595745760689,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 11": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 0.9128709291752769,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 445": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.8975274678557507,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 35": {
+    "n_nodes": 8,
+    "n_edges": 9,
+    "density": 0.32142857142857145,
+    "degree_mean": 2.25,
+    "degree_std": 1.1989578808281798,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 118": {
+    "n_nodes": 10,
+    "n_edges": 9,
+    "density": 0.2,
+    "degree_mean": 1.8,
+    "degree_std": 1.1661903789690602,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 276": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 1.2583057392117916,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 298": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.6666666666666666,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 442": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 0.8813963377120598,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 147": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 0.8717797887081347,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 415": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 0.8634593969478326,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 286": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.1409536133993328,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 25": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 1.0770329614269007,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 178": {
+    "n_nodes": 11,
+    "n_edges": 15,
+    "density": 0.2727272727272727,
+    "degree_mean": 2.727272727272727,
+    "degree_std": 1.052348809344566,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 459": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 0.8717797887081347,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 393": {
+    "n_nodes": 12,
+    "n_edges": 18,
+    "density": 0.2727272727272727,
+    "degree_mean": 3.0,
+    "degree_std": 1.1547005383792515,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 112": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.475640468711606,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 23": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.2498520622516862,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 100": {
+    "n_nodes": 11,
+    "n_edges": 15,
+    "density": 0.2727272727272727,
+    "degree_mean": 2.727272727272727,
+    "degree_std": 1.1354541815269814,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 233": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 0.9791208740244552,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 114": {
+    "n_nodes": 12,
+    "n_edges": 11,
+    "density": 0.16666666666666666,
+    "degree_mean": 1.8333333333333333,
+    "degree_std": 0.7993052538854534,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 163": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.816496580927726,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 92": {
+    "n_nodes": 13,
+    "n_edges": 21,
+    "density": 0.2692307692307692,
+    "degree_mean": 3.230769230769231,
+    "degree_std": 1.671196998646187,
+    "degree_min": 2.0,
+    "degree_max": 7.0
+  },
+  "slice 246": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.8975274678557507,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 99": {
+    "n_nodes": 9,
+    "n_edges": 12,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.4142135623730951,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 37": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 0.9791208740244552,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 83": {
+    "n_nodes": 11,
+    "n_edges": 14,
+    "density": 0.2545454545454545,
+    "degree_mean": 2.5454545454545454,
+    "degree_std": 1.0756508696544755,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 172": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.2015768732164085,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 124": {
+    "n_nodes": 8,
+    "n_edges": 7,
+    "density": 0.25,
+    "degree_mean": 1.75,
+    "degree_std": 0.6614378277661477,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 81": {
+    "n_nodes": 10,
+    "n_edges": 12,
+    "density": 0.26666666666666666,
+    "degree_mean": 2.4,
+    "degree_std": 1.4966629547095764,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 425": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 1.5,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 422": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 1.077032961426901,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 261": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 1.2403473458920846,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 399": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 0.8213137116947163,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 327": {
+    "n_nodes": 11,
+    "n_edges": 16,
+    "density": 0.2909090909090909,
+    "degree_mean": 2.909090909090909,
+    "degree_std": 1.3787046261911908,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 310": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 1.2307692307692306,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 299": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 1.0285189544531599,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 136": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 1.3499945211372495,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 410": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 1.2984415324623364,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 258": {
+    "n_nodes": 12,
+    "n_edges": 14,
+    "density": 0.21212121212121213,
+    "degree_mean": 2.3333333333333335,
+    "degree_std": 1.6499158227686108,
+    "degree_min": 1.0,
+    "degree_max": 7.0
+  },
+  "slice 307": {
+    "n_nodes": 8,
+    "n_edges": 7,
+    "density": 0.25,
+    "degree_mean": 1.75,
+    "degree_std": 1.299038105676658,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 255": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 0.9970370305242862,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 316": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 1.0690449676496976,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 237": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 0.7071067811865476,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 485": {
+    "n_nodes": 8,
+    "n_edges": 10,
+    "density": 0.35714285714285715,
+    "degree_mean": 2.5,
+    "degree_std": 1.0,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 386": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.7742403991801223,
+    "degree_min": 1.0,
+    "degree_max": 7.0
+  },
+  "slice 153": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.0658774200423862,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 50": {
+    "n_nodes": 10,
+    "n_edges": 9,
+    "density": 0.2,
+    "degree_mean": 1.8,
+    "degree_std": 1.077032961426901,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 32": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.002954216185023,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 366": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.422557077608225,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 8": {
+    "n_nodes": 10,
+    "n_edges": 13,
+    "density": 0.28888888888888886,
+    "degree_mean": 2.6,
+    "degree_std": 1.019803902718557,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 122": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 1.1426091000668408,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 2": {
+    "n_nodes": 11,
+    "n_edges": 15,
+    "density": 0.2727272727272727,
+    "degree_mean": 2.727272727272727,
+    "degree_std": 1.28564869306645,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 68": {
+    "n_nodes": 8,
+    "n_edges": 9,
+    "density": 0.32142857142857145,
+    "degree_mean": 2.25,
+    "degree_std": 0.82915619758885,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 326": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 1.1281521496355325,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 444": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.336780553614059,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 391": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.1200169060431566,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 282": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 0.9359663764533637,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 197": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.8975274678557508,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 369": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 1.2264306875665492,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 342": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 1.2801909579781015,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 0": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 1.3228756555322954,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 222": {
+    "n_nodes": 13,
+    "n_edges": 20,
+    "density": 0.2564102564102564,
+    "degree_mean": 3.076923076923077,
+    "degree_std": 1.4390989949130544,
+    "degree_min": 2.0,
+    "degree_max": 7.0
+  },
+  "slice 384": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.3278981924332363,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 24": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 1.3499945211372495,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 218": {
+    "n_nodes": 12,
+    "n_edges": 11,
+    "density": 0.16666666666666666,
+    "degree_mean": 1.8333333333333333,
+    "degree_std": 0.8975274678557507,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 281": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 0.9162456945817024,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 439": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.0088366960464616,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 397": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 1.2984415324623362,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 170": {
+    "n_nodes": 8,
+    "n_edges": 7,
+    "density": 0.25,
+    "degree_mean": 1.75,
+    "degree_std": 0.6614378277661477,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 499": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.4907119849998598,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 143": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 0.8528028654224418,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 295": {
+    "n_nodes": 8,
+    "n_edges": 12,
+    "density": 0.42857142857142855,
+    "degree_mean": 3.0,
+    "degree_std": 0.8660254037844386,
+    "degree_min": 2.0,
+    "degree_max": 4.0
+  },
+  "slice 244": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 0.8770580193070292,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 69": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 0.8813963377120598,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 271": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.2639751327042295,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 394": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 1.1922615498730909,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 491": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 0.6030226891555273,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 131": {
+    "n_nodes": 8,
+    "n_edges": 11,
+    "density": 0.39285714285714285,
+    "degree_mean": 2.75,
+    "degree_std": 1.3919410907075054,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 101": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.0769230769230769,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 470": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.3743685418725535,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 227": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 0.9797958971132713,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 232": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 0.8975274678557508,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 305": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.2113858267710478,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 404": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.0274023338281628,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 14": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.327898192433236,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 328": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 0.6617173282340483,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 478": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 1.2489995996796797,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 199": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 1.1094003924504583,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 300": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 1.2984415324623362,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 22": {
+    "n_nodes": 9,
+    "n_edges": 11,
+    "density": 0.3055555555555556,
+    "degree_mean": 2.4444444444444446,
+    "degree_std": 1.3425606637327303,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 82": {
+    "n_nodes": 13,
+    "n_edges": 21,
+    "density": 0.2692307692307692,
+    "degree_mean": 3.230769230769231,
+    "degree_std": 1.2498520622516862,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 148": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 1.2801909579781012,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 460": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.3323467750529827,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 43": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 1.0690449676496976,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 240": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.9860132971832694,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 315": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 1.1134044285378082,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 263": {
+    "n_nodes": 10,
+    "n_edges": 9,
+    "density": 0.2,
+    "degree_mean": 1.8,
+    "degree_std": 0.6000000000000001,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 110": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 1.0301575072754254,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 492": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 0.6324555320336759,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 87": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 1.3228756555322954,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 164": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 0.9797958971132712,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 234": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.6871842709362768,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 137": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 0.8528028654224418,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 367": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 1.0,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 287": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.076923076923077,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 339": {
+    "n_nodes": 12,
+    "n_edges": 14,
+    "density": 0.21212121212121213,
+    "degree_mean": 2.3333333333333335,
+    "degree_std": 0.9428090415820632,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 59": {
+    "n_nodes": 8,
+    "n_edges": 9,
+    "density": 0.32142857142857145,
+    "degree_mean": 2.25,
+    "degree_std": 0.6614378277661477,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 98": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 0.6793662204867574,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 388": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 0.8717797887081347,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 498": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 0.9101661204768642,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 120": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 0.9574271077563381,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 474": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 1.2307692307692306,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 396": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.4349813927828945,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 40": {
+    "n_nodes": 12,
+    "n_edges": 18,
+    "density": 0.2727272727272727,
+    "degree_mean": 3.0,
+    "degree_std": 1.6832508230603465,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 317": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 1.0,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 248": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 1.3850513878332367,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 494": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 0.8213137116947163,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 135": {
+    "n_nodes": 13,
+    "n_edges": 22,
+    "density": 0.28205128205128205,
+    "degree_mean": 3.3846153846153846,
+    "degree_std": 1.4955555457864294,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 458": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 0.9791208740244551,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 288": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 0.9860132971832694,
+    "degree_min": 2.0,
+    "degree_max": 4.0
+  },
+  "slice 400": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 0.8717797887081347,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 432": {
+    "n_nodes": 12,
+    "n_edges": 19,
+    "density": 0.2878787878787879,
+    "degree_mean": 3.1666666666666665,
+    "degree_std": 1.4624940645653535,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 484": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 1.1281521496355325,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 311": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.249852062251686,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 423": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.6666666666666666,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 438": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.0658774200423862,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 409": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.2686478848054341,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 309": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.247219128924647,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 430": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 0.9730085108210398,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 247": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 0.9128709291752769,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 236": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 0.8944271909999159,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 383": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 0.8660254037844386,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 291": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 0.9359663764533636,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 382": {
+    "n_nodes": 9,
+    "n_edges": 8,
+    "density": 0.2222222222222222,
+    "degree_mean": 1.7777777777777777,
+    "degree_std": 0.9162456945817024,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 376": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.1512791959304434,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 111": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 0.8498365855987975,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 483": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 1.1094003924504583,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 375": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 0.8528028654224418,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 249": {
+    "n_nodes": 13,
+    "n_edges": 21,
+    "density": 0.2692307692307692,
+    "degree_mean": 3.230769230769231,
+    "degree_std": 0.890448992522325,
+    "degree_min": 2.0,
+    "degree_max": 5.0
+  },
+  "slice 454": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 1.0770329614269007,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 294": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.4714045207910317,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 48": {
+    "n_nodes": 11,
+    "n_edges": 16,
+    "density": 0.2909090909090909,
+    "degree_mean": 2.909090909090909,
+    "degree_std": 1.3787046261911908,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 331": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 0.7216024245882199,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 353": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.309952797378954,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 466": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.08240363688233,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 264": {
+    "n_nodes": 13,
+    "n_edges": 21,
+    "density": 0.2692307692307692,
+    "degree_mean": 3.230769230769231,
+    "degree_std": 1.186711432349347,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 260": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 0.9162456945817024,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 452": {
+    "n_nodes": 10,
+    "n_edges": 9,
+    "density": 0.2,
+    "degree_mean": 1.8,
+    "degree_std": 1.32664991614216,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 6": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.3323467750529823,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 34": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.186711432349347,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 379": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 1.3266499161421599,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 76": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 0.7071067811865476,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 196": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 1.1331154474650633,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 368": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.146128032750103,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 155": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.8975274678557507,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 418": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 0.9359663764533637,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 156": {
+    "n_nodes": 12,
+    "n_edges": 18,
+    "density": 0.2727272727272727,
+    "degree_mean": 3.0,
+    "degree_std": 1.0,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 408": {
+    "n_nodes": 11,
+    "n_edges": 14,
+    "density": 0.2545454545454545,
+    "degree_mean": 2.5454545454545454,
+    "degree_std": 0.9875254992000196,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 10": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.135755620017954,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 102": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 0.8634593969478327,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 358": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 1.1547005383792515,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 167": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.6871842709362768,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 55": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 0.8813963377120597,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 245": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 1.1331154474650633,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 15": {
+    "n_nodes": 13,
+    "n_edges": 21,
+    "density": 0.2692307692307692,
+    "degree_mean": 3.230769230769231,
+    "degree_std": 0.8904489925223251,
+    "degree_min": 2.0,
+    "degree_max": 5.0
+  },
+  "slice 448": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.4876215081395165,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 426": {
+    "n_nodes": 11,
+    "n_edges": 16,
+    "density": 0.2909090909090909,
+    "degree_mean": 2.909090909090909,
+    "degree_std": 1.311109554714178,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 209": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.0658774200423862,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 183": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.135755620017954,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 126": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 0.8331955809010617,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 290": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 0.8528028654224418,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 266": {
+    "n_nodes": 13,
+    "n_edges": 20,
+    "density": 0.2564102564102564,
+    "degree_mean": 3.076923076923077,
+    "degree_std": 1.8170787401565716,
+    "degree_min": 1.0,
+    "degree_max": 7.0
+  },
+  "slice 324": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.1200169060431566,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 372": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.2498520622516862,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 267": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.2064913185660093,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 475": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 1.0986812966989001,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 254": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 0.8944271909999159,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 95": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 0.9128709291752769,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 297": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 1.0301575072754254,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 47": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 0.9258200997725514,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 56": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.44320484917644,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 343": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 1.224744871391589,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 420": {
+    "n_nodes": 10,
+    "n_edges": 12,
+    "density": 0.26666666666666666,
+    "degree_mean": 2.4,
+    "degree_std": 0.8,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 125": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 0.816496580927726,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 189": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.6390212117432705,
+    "degree_min": 1.0,
+    "degree_max": 7.0
+  },
+  "slice 107": {
+    "n_nodes": 11,
+    "n_edges": 15,
+    "density": 0.2727272727272727,
+    "degree_mean": 2.727272727272727,
+    "degree_std": 1.28564869306645,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 117": {
+    "n_nodes": 8,
+    "n_edges": 9,
+    "density": 0.32142857142857145,
+    "degree_mean": 2.25,
+    "degree_std": 1.0897247358851685,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 215": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.1409536133993328,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 174": {
+    "n_nodes": 13,
+    "n_edges": 20,
+    "density": 0.2564102564102564,
+    "degree_mean": 3.076923076923077,
+    "degree_std": 1.3846153846153846,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 64": {
+    "n_nodes": 9,
+    "n_edges": 8,
+    "density": 0.2222222222222222,
+    "degree_mean": 1.7777777777777777,
+    "degree_std": 0.6285393610547089,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 28": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.1512791959304434,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 350": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.2498520622516862,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 74": {
+    "n_nodes": 12,
+    "n_edges": 20,
+    "density": 0.30303030303030304,
+    "degree_mean": 3.3333333333333335,
+    "degree_std": 1.178511301977579,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 152": {
+    "n_nodes": 10,
+    "n_edges": 13,
+    "density": 0.28888888888888886,
+    "degree_mean": 2.6,
+    "degree_std": 0.9165151389911681,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 447": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 0.7692307692307693,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 77": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.6666666666666666,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 345": {
+    "n_nodes": 10,
+    "n_edges": 12,
+    "density": 0.26666666666666666,
+    "degree_mean": 2.4,
+    "degree_std": 1.019803902718557,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 262": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 1.1832159566199232,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 140": {
+    "n_nodes": 8,
+    "n_edges": 10,
+    "density": 0.35714285714285715,
+    "degree_mean": 2.5,
+    "degree_std": 1.0,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 469": {
+    "n_nodes": 9,
+    "n_edges": 11,
+    "density": 0.3055555555555556,
+    "degree_mean": 2.4444444444444446,
+    "degree_std": 1.4229164972072998,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 302": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.3323467750529825,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 243": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 0.6998542122237652,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 160": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 1.026281851086641,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 406": {
+    "n_nodes": 8,
+    "n_edges": 7,
+    "density": 0.25,
+    "degree_mean": 1.75,
+    "degree_std": 0.6614378277661477,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 389": {
+    "n_nodes": 7,
+    "n_edges": 8,
+    "density": 0.38095238095238093,
+    "degree_mean": 2.2857142857142856,
+    "degree_std": 1.0301575072754257,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 284": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.9860132971832692,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 223": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.475640468711606,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 321": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 1.1134044285378082,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 162": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 0.7745966692414834,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 71": {
+    "n_nodes": 13,
+    "n_edges": 20,
+    "density": 0.2564102564102564,
+    "degree_mean": 3.076923076923077,
+    "degree_std": 1.327898192433236,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 421": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.076923076923077,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 461": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.08240363688233,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 490": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 1.0408329997330663,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 73": {
+    "n_nodes": 13,
+    "n_edges": 12,
+    "density": 0.15384615384615385,
+    "degree_mean": 1.8461538461538463,
+    "degree_std": 0.7692307692307693,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 437": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 1.404358295529393,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 51": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 0.8426500884694864,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 440": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.692307692307692,
+    "degree_min": 1.0,
+    "degree_max": 7.0
+  },
+  "slice 257": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 0.9162456945817024,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 278": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 1.0,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 329": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 1.2133516482134197,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 60": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.8975274678557507,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 216": {
+    "n_nodes": 9,
+    "n_edges": 12,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.1547005383792515,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 378": {
+    "n_nodes": 12,
+    "n_edges": 14,
+    "density": 0.21212121212121213,
+    "degree_mean": 2.3333333333333335,
+    "degree_std": 1.247219128924647,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 457": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 1.5534552264213692,
+    "degree_min": 1.0,
+    "degree_max": 7.0
+  },
+  "slice 57": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 0.7559289460184544,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 359": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 1.0986812966989,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 151": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 1.224744871391589,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 370": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.9860132971832694,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 109": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.277942132756627,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 205": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 1.1281521496355325,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 479": {
+    "n_nodes": 8,
+    "n_edges": 9,
+    "density": 0.32142857142857145,
+    "degree_mean": 2.25,
+    "degree_std": 0.9682458365518543,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 93": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.1461280327501029,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 229": {
+    "n_nodes": 13,
+    "n_edges": 22,
+    "density": 0.28205128205128205,
+    "degree_mean": 3.3846153846153846,
+    "degree_std": 1.6888075692384732,
+    "degree_min": 1.0,
+    "degree_max": 7.0
+  },
+  "slice 451": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 1.0,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 275": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 1.0262818510866412,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 380": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.1409536133993328,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 325": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 0.8717797887081347,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 31": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 0.8975274678557508,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 419": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 1.2489995996796797,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 80": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 1.5275252316519468,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 214": {
+    "n_nodes": 8,
+    "n_edges": 10,
+    "density": 0.35714285714285715,
+    "degree_mean": 2.5,
+    "degree_std": 1.3228756555322954,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 63": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.1461280327501029,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 270": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 1.224744871391589,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 142": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 1.0690449676496976,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 168": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.178511301977579,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 129": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.135755620017954,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 190": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 0.7559289460184544,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 185": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 1.2133516482134197,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 225": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.0274023338281628,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 75": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 0.9797958971132713,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 159": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.146128032750103,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 116": {
+    "n_nodes": 12,
+    "n_edges": 18,
+    "density": 0.2727272727272727,
+    "degree_mean": 3.0,
+    "degree_std": 1.0801234497346435,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 67": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 0.7158188976374373,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 91": {
+    "n_nodes": 10,
+    "n_edges": 11,
+    "density": 0.24444444444444444,
+    "degree_mean": 2.2,
+    "degree_std": 1.077032961426901,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 374": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 1.0408329997330663,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 20": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.0658774200423862,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 4": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 0.5345224838248488,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 435": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 1.0377490433255416,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 219": {
+    "n_nodes": 11,
+    "n_edges": 12,
+    "density": 0.21818181818181817,
+    "degree_mean": 2.1818181818181817,
+    "degree_std": 1.2662171161076472,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 27": {
+    "n_nodes": 9,
+    "n_edges": 8,
+    "density": 0.2222222222222222,
+    "degree_mean": 1.7777777777777777,
+    "degree_std": 0.7856742013183862,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 12": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.4390989949130544,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 230": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.3367805536140591,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 13": {
+    "n_nodes": 10,
+    "n_edges": 13,
+    "density": 0.28888888888888886,
+    "degree_mean": 2.6,
+    "degree_std": 1.4966629547095767,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 446": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 1.2801909579781012,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 108": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 0.8355984993230935,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 134": {
+    "n_nodes": 11,
+    "n_edges": 16,
+    "density": 0.2909090909090909,
+    "degree_mean": 2.909090909090909,
+    "degree_std": 1.083306844346635,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 312": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 1.0,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 392": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 0.9574271077563381,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 72": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 1.2264306875665492,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 395": {
+    "n_nodes": 13,
+    "n_edges": 21,
+    "density": 0.2692307692307692,
+    "degree_mean": 3.230769230769231,
+    "degree_std": 1.2498520622516862,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 104": {
+    "n_nodes": 8,
+    "n_edges": 9,
+    "density": 0.32142857142857145,
+    "degree_mean": 2.25,
+    "degree_std": 0.4330127018922193,
+    "degree_min": 2.0,
+    "degree_max": 3.0
+  },
+  "slice 193": {
+    "n_nodes": 10,
+    "n_edges": 12,
+    "density": 0.26666666666666666,
+    "degree_mean": 2.4,
+    "degree_std": 1.2806248474865698,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 462": {
+    "n_nodes": 10,
+    "n_edges": 12,
+    "density": 0.26666666666666666,
+    "degree_mean": 2.4,
+    "degree_std": 1.2,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 154": {
+    "n_nodes": 10,
+    "n_edges": 12,
+    "density": 0.26666666666666666,
+    "degree_mean": 2.4,
+    "degree_std": 1.2806248474865698,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 427": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 0.7713892158398701,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 402": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 0.8660254037844386,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 103": {
+    "n_nodes": 12,
+    "n_edges": 14,
+    "density": 0.21212121212121213,
+    "degree_mean": 2.3333333333333335,
+    "degree_std": 1.0274023338281628,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 210": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 1.0304020550550783,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 38": {
+    "n_nodes": 11,
+    "n_edges": 14,
+    "density": 0.2545454545454545,
+    "degree_mean": 2.5454545454545454,
+    "degree_std": 0.8907235428302467,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 235": {
+    "n_nodes": 13,
+    "n_edges": 20,
+    "density": 0.2564102564102564,
+    "degree_mean": 3.076923076923077,
+    "degree_std": 1.268647884805434,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 195": {
+    "n_nodes": 11,
+    "n_edges": 15,
+    "density": 0.2727272727272727,
+    "degree_mean": 2.727272727272727,
+    "degree_std": 0.616575453011388,
+    "degree_min": 2.0,
+    "degree_max": 4.0
+  },
+  "slice 158": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 0.6998542122237652,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 319": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.1055415967851332,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 7": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.0658774200423862,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 5": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 0.6324555320336759,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 94": {
+    "n_nodes": 10,
+    "n_edges": 13,
+    "density": 0.28888888888888886,
+    "degree_mean": 2.6,
+    "degree_std": 1.2,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 132": {
+    "n_nodes": 13,
+    "n_edges": 20,
+    "density": 0.2564102564102564,
+    "degree_mean": 3.076923076923077,
+    "degree_std": 1.3846153846153846,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 308": {
+    "n_nodes": 9,
+    "n_edges": 8,
+    "density": 0.2222222222222222,
+    "degree_mean": 1.7777777777777777,
+    "degree_std": 0.7856742013183862,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 175": {
+    "n_nodes": 8,
+    "n_edges": 7,
+    "density": 0.25,
+    "degree_mean": 1.75,
+    "degree_std": 1.0897247358851685,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 186": {
+    "n_nodes": 10,
+    "n_edges": 9,
+    "density": 0.2,
+    "degree_mean": 1.8,
+    "degree_std": 0.7483314773547882,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 79": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 0.7071067811865476,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 173": {
+    "n_nodes": 13,
+    "n_edges": 20,
+    "density": 0.2564102564102564,
+    "degree_mean": 3.076923076923077,
+    "degree_std": 1.3846153846153848,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 265": {
+    "n_nodes": 12,
+    "n_edges": 14,
+    "density": 0.21212121212121213,
+    "degree_mean": 2.3333333333333335,
+    "degree_std": 1.0274023338281628,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 468": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 1.0301575072754254,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 338": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.6666666666666666,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 146": {
+    "n_nodes": 12,
+    "n_edges": 11,
+    "density": 0.16666666666666666,
+    "degree_mean": 1.8333333333333333,
+    "degree_std": 1.0671873729054748,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 277": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 0.5,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 220": {
+    "n_nodes": 10,
+    "n_edges": 12,
+    "density": 0.26666666666666666,
+    "degree_mean": 2.4,
+    "degree_std": 0.9165151389911681,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 188": {
+    "n_nodes": 13,
+    "n_edges": 19,
+    "density": 0.24358974358974358,
+    "degree_mean": 2.923076923076923,
+    "degree_std": 1.3278981924332358,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 29": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 1.227262335243029,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 387": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 1.0301575072754254,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 203": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 1.044465935734187,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 417": {
+    "n_nodes": 9,
+    "n_edges": 8,
+    "density": 0.2222222222222222,
+    "degree_mean": 1.7777777777777777,
+    "degree_std": 1.1331154474650633,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 53": {
+    "n_nodes": 13,
+    "n_edges": 23,
+    "density": 0.2948717948717949,
+    "degree_mean": 3.5384615384615383,
+    "degree_std": 1.336780553614059,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 181": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 1.0986812966989001,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 123": {
+    "n_nodes": 8,
+    "n_edges": 8,
+    "density": 0.2857142857142857,
+    "degree_mean": 2.0,
+    "degree_std": 0.8660254037844386,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 89": {
+    "n_nodes": 9,
+    "n_edges": 8,
+    "density": 0.2222222222222222,
+    "degree_mean": 1.7777777777777777,
+    "degree_std": 1.0304020550550783,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 226": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 0.8944271909999159,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 296": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 1.067940011315521,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 371": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 1.1766968108291043,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 364": {
+    "n_nodes": 10,
+    "n_edges": 10,
+    "density": 0.2222222222222222,
+    "degree_mean": 2.0,
+    "degree_std": 1.2649110640673518,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 428": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 0.9910845174403945,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 340": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.5384615384615383,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 497": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 0.8904489925223251,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 228": {
+    "n_nodes": 9,
+    "n_edges": 11,
+    "density": 0.3055555555555556,
+    "degree_mean": 2.4444444444444446,
+    "degree_std": 1.0657403385139377,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 1": {
+    "n_nodes": 12,
+    "n_edges": 11,
+    "density": 0.16666666666666666,
+    "degree_mean": 1.8333333333333333,
+    "degree_std": 1.1426091000668408,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 348": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 0.6617173282340483,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 191": {
+    "n_nodes": 7,
+    "n_edges": 10,
+    "density": 0.47619047619047616,
+    "degree_mean": 2.857142857142857,
+    "degree_std": 0.989743318610787,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 145": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 1.1766968108291043,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 320": {
+    "n_nodes": 7,
+    "n_edges": 6,
+    "density": 0.2857142857142857,
+    "degree_mean": 1.7142857142857142,
+    "degree_std": 0.45175395145262565,
+    "degree_min": 1.0,
+    "degree_max": 2.0
+  },
+  "slice 201": {
+    "n_nodes": 11,
+    "n_edges": 14,
+    "density": 0.2545454545454545,
+    "degree_mean": 2.5454545454545454,
+    "degree_std": 1.0756508696544758,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 36": {
+    "n_nodes": 10,
+    "n_edges": 12,
+    "density": 0.26666666666666666,
+    "degree_mean": 2.4,
+    "degree_std": 1.624807680927192,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 346": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 1.0679400113155209,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 481": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.2733034890189885,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 496": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 0.8528028654224418,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 487": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 1.2133516482134197,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 334": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 1.2133516482134197,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 482": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.336780553614059,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 88": {
+    "n_nodes": 11,
+    "n_edges": 11,
+    "density": 0.2,
+    "degree_mean": 2.0,
+    "degree_std": 0.7385489458759964,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 365": {
+    "n_nodes": 9,
+    "n_edges": 12,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.2472191289246473,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 318": {
+    "n_nodes": 11,
+    "n_edges": 14,
+    "density": 0.2545454545454545,
+    "degree_mean": 2.5454545454545454,
+    "degree_std": 1.3726971700492272,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 58": {
+    "n_nodes": 13,
+    "n_edges": 14,
+    "density": 0.1794871794871795,
+    "degree_mean": 2.1538461538461537,
+    "degree_std": 1.166596222161777,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 332": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 1.0377490433255416,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 52": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 1.3587324409735149,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 179": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.3123346456686351,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 242": {
+    "n_nodes": 12,
+    "n_edges": 21,
+    "density": 0.3181818181818182,
+    "degree_mean": 3.5,
+    "degree_std": 1.3844373104863459,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 39": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.247219128924647,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 139": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 1.0304020550550783,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 361": {
+    "n_nodes": 11,
+    "n_edges": 14,
+    "density": 0.2545454545454545,
+    "degree_mean": 2.5454545454545454,
+    "degree_std": 1.3726971700492272,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 405": {
+    "n_nodes": 11,
+    "n_edges": 17,
+    "density": 0.3090909090909091,
+    "degree_mean": 3.090909090909091,
+    "degree_std": 1.083306844346635,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 301": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 1.4624940645653537,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 356": {
+    "n_nodes": 13,
+    "n_edges": 15,
+    "density": 0.19230769230769232,
+    "degree_mean": 2.3076923076923075,
+    "degree_std": 1.2015768732164083,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 127": {
+    "n_nodes": 12,
+    "n_edges": 14,
+    "density": 0.21212121212121213,
+    "degree_mean": 2.3333333333333335,
+    "degree_std": 0.8498365855987975,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 401": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.6666666666666666,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 293": {
+    "n_nodes": 12,
+    "n_edges": 15,
+    "density": 0.22727272727272727,
+    "degree_mean": 2.5,
+    "degree_std": 1.6072751268321592,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 171": {
+    "n_nodes": 12,
+    "n_edges": 17,
+    "density": 0.25757575757575757,
+    "degree_mean": 2.8333333333333335,
+    "degree_std": 1.0671873729054748,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 450": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 0.9128709291752769,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 194": {
+    "n_nodes": 10,
+    "n_edges": 12,
+    "density": 0.26666666666666666,
+    "degree_mean": 2.4,
+    "degree_std": 0.8,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 416": {
+    "n_nodes": 8,
+    "n_edges": 7,
+    "density": 0.25,
+    "degree_mean": 1.75,
+    "degree_std": 0.9682458365518543,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 314": {
+    "n_nodes": 12,
+    "n_edges": 12,
+    "density": 0.18181818181818182,
+    "degree_mean": 2.0,
+    "degree_std": 0.816496580927726,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 344": {
+    "n_nodes": 12,
+    "n_edges": 16,
+    "density": 0.24242424242424243,
+    "degree_mean": 2.6666666666666665,
+    "degree_std": 1.3743685418725535,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 19": {
+    "n_nodes": 9,
+    "n_edges": 8,
+    "density": 0.2222222222222222,
+    "degree_mean": 1.7777777777777777,
+    "degree_std": 0.6285393610547089,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 84": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.816496580927726,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 85": {
+    "n_nodes": 9,
+    "n_edges": 9,
+    "density": 0.25,
+    "degree_mean": 2.0,
+    "degree_std": 0.9428090415820634,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 45": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 0.9162456945817024,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 252": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 0.5345224838248488,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 184": {
+    "n_nodes": 13,
+    "n_edges": 12,
+    "density": 0.15384615384615385,
+    "degree_mean": 1.8461538461538463,
+    "degree_std": 0.7692307692307693,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 150": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.0088366960464616,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 347": {
+    "n_nodes": 9,
+    "n_edges": 11,
+    "density": 0.3055555555555556,
+    "degree_mean": 2.4444444444444446,
+    "degree_std": 0.8314794192830981,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 360": {
+    "n_nodes": 12,
+    "n_edges": 14,
+    "density": 0.21212121212121213,
+    "degree_mean": 2.3333333333333335,
+    "degree_std": 1.0274023338281628,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 280": {
+    "n_nodes": 8,
+    "n_edges": 7,
+    "density": 0.25,
+    "degree_mean": 1.75,
+    "degree_std": 0.6614378277661477,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 221": {
+    "n_nodes": 12,
+    "n_edges": 13,
+    "density": 0.19696969696969696,
+    "degree_mean": 2.1666666666666665,
+    "degree_std": 1.0671873729054748,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 431": {
+    "n_nodes": 13,
+    "n_edges": 18,
+    "density": 0.23076923076923078,
+    "degree_mean": 2.769230769230769,
+    "degree_std": 1.309952797378954,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 26": {
+    "n_nodes": 11,
+    "n_edges": 13,
+    "density": 0.23636363636363636,
+    "degree_mean": 2.3636363636363638,
+    "degree_std": 0.7713892158398701,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 176": {
+    "n_nodes": 9,
+    "n_edges": 10,
+    "density": 0.2777777777777778,
+    "degree_mean": 2.2222222222222223,
+    "degree_std": 1.1331154474650633,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 141": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.0769230769230769,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 303": {
+    "n_nodes": 13,
+    "n_edges": 13,
+    "density": 0.16666666666666666,
+    "degree_mean": 2.0,
+    "degree_std": 1.0377490433255416,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 200": {
+    "n_nodes": 12,
+    "n_edges": 14,
+    "density": 0.21212121212121213,
+    "degree_mean": 2.3333333333333335,
+    "degree_std": 1.3743685418725535,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 272": {
+    "n_nodes": 12,
+    "n_edges": 20,
+    "density": 0.30303030303030304,
+    "degree_mean": 3.3333333333333335,
+    "degree_std": 1.6499158227686108,
+    "degree_min": 1.0,
+    "degree_max": 6.0
+  },
+  "slice 477": {
+    "n_nodes": 13,
+    "n_edges": 17,
+    "density": 0.21794871794871795,
+    "degree_mean": 2.6153846153846154,
+    "degree_std": 1.002954216185023,
+    "degree_min": 1.0,
+    "degree_max": 5.0
+  },
+  "slice 241": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 0.9258200997725514,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 180": {
+    "n_nodes": 13,
+    "n_edges": 16,
+    "density": 0.20512820512820512,
+    "degree_mean": 2.4615384615384617,
+    "degree_std": 1.08240363688233,
+    "degree_min": 1.0,
+    "degree_max": 4.0
+  },
+  "slice 473": {
+    "n_nodes": 7,
+    "n_edges": 7,
+    "density": 0.3333333333333333,
+    "degree_mean": 2.0,
+    "degree_std": 0.5345224838248488,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  },
+  "slice 472": {
+    "n_nodes": 12,
+    "n_edges": 11,
+    "density": 0.16666666666666666,
+    "degree_mean": 1.8333333333333333,
+    "degree_std": 0.7993052538854533,
+    "degree_min": 1.0,
+    "degree_max": 3.0
+  }
+}

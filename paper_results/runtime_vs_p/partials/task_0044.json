@@ -1,0 +1,89 @@
+{
+  "N": 1000,
+  "graph_generation_attempts": 3,
+  "graph_seed": 395875719,
+  "last_improvement_time": 444.18642354011536,
+  "level": 20,
+  "n_edges": 16,
+  "n_nodes": 10,
+  "number_of_attackers": 1,
+  "p": 0.3155555555555556,
+  "p_index": 1,
+  "repetition": 14,
+  "reward": 1.0,
+  "reward_label": "Gram_error_fro",
+  "runtime": 444.18642354011536,
+  "seed": 86,
+  "sequence_length": 13,
+  "success": true,
+  "target_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      6,
+      9
+    ]
+  ],
+  "task_id": 44,
+  "time_budget": 3600.0,
+  "time_step": 20,
+  "total_runtime": 447.6331605911255
+}

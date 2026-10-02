@@ -1,0 +1,3 @@
+edge_count_mode,true_edge_count,mean_estimated_edge_count,median_estimated_edge_count,success_rate,median_time_to_objective_seconds,isomorphism_rate
+known,14,14.0,14.0,0.42,3000.537839412689,0.42
+unknown,14,14.5,14.0,0.4,4306.199872851372,0.4
